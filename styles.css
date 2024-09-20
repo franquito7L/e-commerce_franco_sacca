@@ -1,8 +1,7 @@
-.container{
- display: flex;
-}
+
 
 .card{
     width: 30rem;
+    margin-bottom: 20px;
 }
 
