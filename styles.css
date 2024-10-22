@@ -1,7 +1,32 @@
-
-
-.card{
-    width: 30rem;
-    margin-bottom: 20px;
-}
-
+body {
+    margin: 0;
+    font-family: "DM Serif Text", serif;
+    background: url(https://wallpapercave.com/wp/wp12128326.jpg) no-repeat fixed
+      center;
+  }
+  .portada {
+    width: 45px;
+    height: 45px;
+  }
+  .foto {
+    width: 85%;
+  }
+  .imagen {
+    margin: 7%;
+    justify-content: center;
+    text-align: center;
+  }
+  .producto {
+    text-align: center;
+    font-size: 15px;
+  }
+  .hovnav{
+    color: black;
+    :hover{
+      border: #EB8317 2px;
+      color: #EB8317;
+    }
+  }
+  .colo{
+    background: linear-gradient(to right, #050505, #8e8669, #ab8115);
+  }
